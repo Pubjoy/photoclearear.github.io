@@ -1,0 +1,77 @@
+PODS:
+  - BGFMDB (2.0.13):
+    - BGFMDB/BG (= 2.0.13)
+    - BGFMDB/FMDB (= 2.0.13)
+  - BGFMDB/BG (2.0.13):
+    - BGFMDB/FMDB
+  - BGFMDB/FMDB (2.0.13)
+  - CYLTabBarController (1.29.2):
+    - CYLTabBarController/Core (= 1.29.2)
+  - CYLTabBarController/Core (1.29.2)
+  - IQKeyboardManager (6.5.10)
+  - JXCategoryView (1.6.1)
+  - LSTPopView (0.3.10):
+    - LSTPopView/Code (= 0.3.10)
+    - LSTTimer
+  - LSTPopView/Code (0.3.10):
+    - LSTTimer
+  - LSTTimer (0.2.10)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJExtension (3.4.1)
+  - XYIAPKit (1.0.1):
+    - XYIAPKit/Core (= 1.0.1)
+  - XYIAPKit/Core (1.0.1)
+  - XYIAPKit/iTunesReceiptVerify (1.0.1):
+    - XYIAPKit/Core
+    - YYModel (~> 1.0.4)
+  - XYIAPKit/KeychainPersistence (1.0.1):
+    - XYIAPKit/Core
+  - XYIAPKit/UserDefaultPersistence (1.0.1):
+    - XYIAPKit/Core
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - BGFMDB
+  - CYLTabBarController
+  - IQKeyboardManager
+  - JXCategoryView
+  - LSTPopView
+  - Masonry
+  - MBProgressHUD (~> 1.2.0)
+  - MJExtension
+  - XYIAPKit
+  - XYIAPKit/iTunesReceiptVerify
+  - XYIAPKit/KeychainPersistence
+  - XYIAPKit/UserDefaultPersistence
+
+SPEC REPOS:
+  trunk:
+    - BGFMDB
+    - CYLTabBarController
+    - IQKeyboardManager
+    - JXCategoryView
+    - LSTPopView
+    - LSTTimer
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - XYIAPKit
+    - YYModel
+
+SPEC CHECKSUMS:
+  BGFMDB: 48e6823027232402a678acc7f71484b1fc9171d0
+  CYLTabBarController: db44b5901a28693a8a4279e4721b3aafdd36c178
+  IQKeyboardManager: 45a1fa55c1a5b02c61ac0fd7fd5b62bb4ad20d97
+  JXCategoryView: 7b1ee69ede4843c581688afe84d0f047723262f2
+  LSTPopView: 9379f00f6ce7d1fc620b50ab00ed3ef97b2d4d52
+  LSTTimer: caf8f02ff366ca175cf4c1778d26c166183c1b6f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJExtension: 21c5f6f8c4d5d8844b7ae8fbae08fed0b501f961
+  XYIAPKit: 639c88d24659e2aab61fcf9f88d6d0034f8b9204
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: e8fda7cc7ada1b87a910789474250decb753f23a
+
+COCOAPODS: 1.11.3
